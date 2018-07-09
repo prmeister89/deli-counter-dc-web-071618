@@ -13,3 +13,4 @@ def line(katz_deli)
     puts "The line is currently:"+ current_line.join("")
   end
 end
+
